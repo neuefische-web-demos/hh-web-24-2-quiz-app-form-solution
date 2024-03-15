@@ -7,3 +7,13 @@
 @import "./components/navigation/navigation.css";
 @import "./components/profile/profile.css";
 @import "./components/counter-list/counter-list.css";
+
+.form-page {
+  margin-top: 120px;
+}
+
+.form-page form {
+  display: grid;
+  gap: 2rem;
+  padding: 2rem;
+}
